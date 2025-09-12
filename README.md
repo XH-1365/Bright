@@ -15,3 +15,6 @@
 https://flowus.cn/share/86bad05a-7ee6-44d1-b82a-0c554120162c?code=58T0KF
 【FlowUs 息流】有光“拍照神器”（但是我不知道是不是这么说）
 访问密码myoq
+
+## 采购BOM表腾讯文档（可查看购买状体）
+https://docs.qq.com/sheet/DR3VKeVJmSHJJT0VF
