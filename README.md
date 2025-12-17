@@ -1,4 +1,5 @@
-# Bright-有光团队（老灯团队）
+# Bright-有光团队（老灯团队） Display_screen版本
+
 ## 前言:我为什么会去做这个产品?
 
     首先，我也会给女孩拍照，只不过真的会被骂了。。。。我确实觉得这个产品出现肯定会非常有意思，但是我的设计想法永远在价格上。。。我对所有的成本都控制的非常死。。可能我真的穷疯了。。。。
@@ -16,5 +17,5 @@ https://flowus.cn/share/86bad05a-7ee6-44d1-b82a-0c554120162c?code=58T0KF
 【FlowUs 息流】有光“拍照神器”（但是我不知道是不是这么说）
 访问密码myoq
 
-## 采购BOM表腾讯文档（可查看购买状体）
-https://docs.qq.com/sheet/DR3VKeVJmSHJJT0VF
+## 图片照片
+![alt text](1.png)
