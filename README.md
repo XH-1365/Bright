@@ -5,7 +5,7 @@
 
 ### 回归正题，让我来看看这产品图吧，其实我对越小的东西越感兴趣，只有做小，才会做到极致！
 # 进度情况 0.1 版本这个版本是用来临时使用的
->-> 目前处于加工状态 ->
+>-> 已完结 ->
 # 产品模型以及基本内容
 >+ 本产品会一直更新SETP格式文件，一般以总装配为标题
 >+ 本次设计主要使用Inventor绘制,大多会转为step进行更新。
@@ -17,10 +17,5 @@ https://flowus.cn/share/86bad05a-7ee6-44d1-b82a-0c554120162c?code=58T0KF
 访问密码myoq
 
 
-## 采购BOM表腾讯文档（可查看购买状体）
-https://docs.qq.com/sheet/DR3VKeVJmSHJJT0VF
-
-## 完整装配图片
-
-[img1]: \2 B Mechanical design\Bright\完整装配图片\完整图片.png
-
+## 完整装配图片 
+![alt text](完整图片.png)
